@@ -12,6 +12,8 @@ namespace ConsoleApp1
       {
          // Code was now edited in GitHub
          // Code was added in VS 2017
+
+         // Code to call Feature 1
       }
    }
 }
