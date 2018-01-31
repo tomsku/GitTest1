@@ -14,6 +14,8 @@ namespace ConsoleApp1
          // Code was added in VS 2017
 
          // Code to call Feature 1
+
+         // Code to call Feature 2
          
          // Code to call Feature 3
       }
